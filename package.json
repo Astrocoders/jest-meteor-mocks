@@ -1,0 +1,14 @@
+{
+  "name": "jest-meteor-mocks",
+  "scripts": {
+  },
+  "version": "1.0.0",
+  "description": "Common Meteor mocks for Jest",
+  "main": "index.js",
+  "repository": {
+    "url": "git@github.com:Astrocoders/jest-meteor-mocks.git",
+    "type": "git"
+  },
+  "author": "Gabriel Rubens (https://twitter.com/_gabrielrubens)",
+  "license": "MIT"
+}
