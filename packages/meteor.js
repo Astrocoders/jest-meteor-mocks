@@ -1,5 +1,3 @@
-const { jest } = global
-
 exports.meteor = {
   loginWithPassword: jest.fn(),
   loginWithFacebook: jest.fn(),

@@ -1,1 +1,3 @@
-module.exports = require('dist/index')
+module.exports = {
+  createTemplateMock: require('./helpers/create_template_mock'),
+} 
